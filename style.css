@@ -1,0 +1,19 @@
+.title{
+    text-align: center
+    size: 40px
+    color: blue
+};
+.text{
+    size: 24px
+    color: blue
+}
+.btn{
+    color: blue
+    text-color: white
+    text-size: 18px
+    border: transparent
+}
+
+*{
+
+}
